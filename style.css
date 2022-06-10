@@ -1,0 +1,19 @@
+.hidden {
+    display: none;
+}
+
+nav {
+    height: 8vh;
+}
+
+#main {
+    height: 92vh;
+}
+
+h1 {
+    text-align: center;
+}
+
+span {
+    color: green;
+}
